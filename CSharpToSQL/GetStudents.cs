@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace CSharpToSQL
 {
-    public class Class1
-    {
+    public class C {
     }
 }
